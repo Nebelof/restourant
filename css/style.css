@@ -984,6 +984,6 @@ button {
   }
 
   .header-title {
-    margin-top: 45%;
+    margin: 45% -35px 0 -35px;
   }
 }
